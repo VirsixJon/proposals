@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 033c37fedd435d7439bbce414b8fed81
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Button_01
+    100002: Button_01 1
+    100004: Button_01 10
+    100006: Button_01 11
+    100008: Button_01 2
+    100010: Button_01 3
+    100012: Button_01 4
+    100014: Button_01 5
+    100016: Button_01 6
+    100018: Button_01 7
+    100020: Button_01 8
+    100022: Button_01 9
+    100024: Button_02
+    100026: Button_02 1
+    100028: Button_02 10
+    100030: Button_02 11
+    100032: Button_02 2
+    100034: Button_02 3
+    100036: Button_02 4
+    100038: Button_02 5
+    100040: Button_02 6
+    100042: Button_02 7
+    100044: Button_02 8
+    100046: Button_02 9
+    100048: Button_03
+    100050: Button_03 1
+    100052: Button_03 10
+    100054: Button_03 11
+    100056: Button_03 2
+    100058: Button_03 3
+    100060: Button_03 4
+    100062: Button_03 5
+    100064: Button_03 6
+    100066: Button_03 7
+    100068: Button_03 8
+    100070: Button_03 9
+    100072: control_01
+    100074: control_01 1
+    100076: control_02
+    100078: control_02 1
+    100080: control_03
+    100082: control_03 1
+    100084: control_04
+    100086: control_04 1
+    100088: control_05
+    100090: control_05 1
+    100092: control_06
+    100094: control_06 1
+    100096: joystick
+    100098: joystick 1
+    100100: joystick 10
+    100102: joystick 11
+    100104: joystick 2
+    100106: joystick 3
+    100108: joystick 4
+    100110: joystick 5
+    100112: joystick 6
+    100114: joystick 7
+    100116: joystick 8
+    100118: joystick 9
+    100120: left_buttons
+    100122: main_Body
+    100124: //RootNode
+    100126: right_buttons
+    400000: Button_01
+    400002: Button_01 1
+    400004: Button_01 10
+    400006: Button_01 11
+    400008: Button_01 2
+    400010: Button_01 3
+    400012: Button_01 4
+    400014: Button_01 5
+    400016: Button_01 6
+    400018: Button_01 7
+    400020: Button_01 8
+    400022: Button_01 9
+    400024: Button_02
+    400026: Button_02 1
+    400028: Button_02 10
+    400030: Button_02 11
+    400032: Button_02 2
+    400034: Button_02 3
+    400036: Button_02 4
+    400038: Button_02 5
+    400040: Button_02 6
+    400042: Button_02 7
+    400044: Button_02 8
+    400046: Button_02 9
+    400048: Button_03
+    400050: Button_03 1
+    400052: Button_03 10
+    400054: Button_03 11
+    400056: Button_03 2
+    400058: Button_03 3
+    400060: Button_03 4
+    400062: Button_03 5
+    400064: Button_03 6
+    400066: Button_03 7
+    400068: Button_03 8
+    400070: Button_03 9
+    400072: control_01
+    400074: control_01 1
+    400076: control_02
+    400078: control_02 1
+    400080: control_03
+    400082: control_03 1
+    400084: control_04
+    400086: control_04 1
+    400088: control_05
+    400090: control_05 1
+    400092: control_06
+    400094: control_06 1
+    400096: joystick
+    400098: joystick 1
+    400100: joystick 10
+    400102: joystick 11
+    400104: joystick 2
+    400106: joystick 3
+    400108: joystick 4
+    400110: joystick 5
+    400112: joystick 6
+    400114: joystick 7
+    400116: joystick 8
+    400118: joystick 9
+    400120: left_buttons
+    400122: main_Body
+    400124: //RootNode
+    400126: right_buttons
+    2300000: Button_01
+    2300002: Button_01 1
+    2300004: Button_01 10
+    2300006: Button_01 11
+    2300008: Button_01 2
+    2300010: Button_01 3
+    2300012: Button_01 4
+    2300014: Button_01 5
+    2300016: Button_01 6
+    2300018: Button_01 7
+    2300020: Button_01 8
+    2300022: Button_01 9
+    2300024: Button_02
+    2300026: Button_02 1
+    2300028: Button_02 10
+    2300030: Button_02 11
+    2300032: Button_02 2
+    2300034: Button_02 3
+    2300036: Button_02 4
+    2300038: Button_02 5
+    2300040: Button_02 6
+    2300042: Button_02 7
+    2300044: Button_02 8
+    2300046: Button_02 9
+    2300048: Button_03
+    2300050: Button_03 1
+    2300052: Button_03 10
+    2300054: Button_03 11
+    2300056: Button_03 2
+    2300058: Button_03 3
+    2300060: Button_03 4
+    2300062: Button_03 5
+    2300064: Button_03 6
+    2300066: Button_03 7
+    2300068: Button_03 8
+    2300070: Button_03 9
+    2300072: joystick
+    2300074: joystick 1
+    2300076: joystick 10
+    2300078: joystick 11
+    2300080: joystick 2
+    2300082: joystick 3
+    2300084: joystick 4
+    2300086: joystick 5
+    2300088: joystick 6
+    2300090: joystick 7
+    2300092: joystick 8
+    2300094: joystick 9
+    2300096: main_Body
+    3300000: Button_01
+    3300002: Button_01 1
+    3300004: Button_01 10
+    3300006: Button_01 11
+    3300008: Button_01 2
+    3300010: Button_01 3
+    3300012: Button_01 4
+    3300014: Button_01 5
+    3300016: Button_01 6
+    3300018: Button_01 7
+    3300020: Button_01 8
+    3300022: Button_01 9
+    3300024: Button_02
+    3300026: Button_02 1
+    3300028: Button_02 10
+    3300030: Button_02 11
+    3300032: Button_02 2
+    3300034: Button_02 3
+    3300036: Button_02 4
+    3300038: Button_02 5
+    3300040: Button_02 6
+    3300042: Button_02 7
+    3300044: Button_02 8
+    3300046: Button_02 9
+    3300048: Button_03
+    3300050: Button_03 1
+    3300052: Button_03 10
+    3300054: Button_03 11
+    3300056: Button_03 2
+    3300058: Button_03 3
+    3300060: Button_03 4
+    3300062: Button_03 5
+    3300064: Button_03 6
+    3300066: Button_03 7
+    3300068: Button_03 8
+    3300070: Button_03 9
+    3300072: joystick
+    3300074: joystick 1
+    3300076: joystick 10
+    3300078: joystick 11
+    3300080: joystick 2
+    3300082: joystick 3
+    3300084: joystick 4
+    3300086: joystick 5
+    3300088: joystick 6
+    3300090: joystick 7
+    3300092: joystick 8
+    3300094: joystick 9
+    3300096: main_Body
+    4300000: main_Body
+    4300002: joystick
+    4300004: Button_01
+    4300006: Button_02
+    4300008: Button_03
+    4300010: joystick
+    4300012: Button_01
+    4300014: Button_02
+    4300016: Button_03
+    4300018: joystick
+    4300020: Button_01
+    4300022: Button_02
+    4300024: Button_03
+    4300026: joystick
+    4300028: Button_01
+    4300030: Button_02
+    4300032: Button_03
+    4300034: joystick
+    4300036: Button_01
+    4300038: Button_02
+    4300040: Button_03
+    4300042: joystick
+    4300044: Button_01
+    4300046: Button_02
+    4300048: Button_03
+    4300050: joystick
+    4300052: Button_01
+    4300054: Button_02
+    4300056: Button_03
+    4300058: joystick
+    4300060: Button_01
+    4300062: Button_02
+    4300064: Button_03
+    4300066: joystick
+    4300068: Button_01
+    4300070: Button_02
+    4300072: Button_03
+    4300074: joystick
+    4300076: Button_01
+    4300078: Button_02
+    4300080: Button_03
+    4300082: joystick
+    4300084: Button_01
+    4300086: Button_02
+    4300088: Button_03
+    4300090: joystick
+    4300092: Button_01
+    4300094: Button_02
+    4300096: Button_03
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
